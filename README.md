@@ -8,7 +8,10 @@
 
 # News App
 
-IOS Simple News App
+IOS Simple News App Build in UIKit
+Custom UI
+Image Cache
+Lottie Animation
 
 ---
 # Requirements
