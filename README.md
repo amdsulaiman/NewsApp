@@ -1,4 +1,5 @@
 # NewsApp
+![platform](https://img.shields.io/badge/platform-iOS-orange?style=flat-square)
 <p align="row">
 <img src="https://user-images.githubusercontent.com/73575643/141159783-7304a06b-70e7-4918-8b27-0963d0d74270.png" width="400" >
  <img src="https://user-images.githubusercontent.com/73575643/141159791-35d71ccb-3920-43bd-abff-dcddfbc17338.png" width="400" >
